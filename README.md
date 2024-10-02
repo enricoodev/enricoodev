@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hey, I'm Enrico!
 
-<!--
-**enricoodev/enricoodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 GitHub Profile
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I'm a passionate developer specializing in web development, Discord bot creation, and FiveM server customization. I love working with code and am always up for a new challenge.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 My Skills
+
+- 💻 **Full-Stack Web Developer**
+- 🟢 **Junior JavaScript Developer**
+- 🔵 **Senior Lua Developer**
+- 🌐 **Medium HTML/CSS Developer**
+- 🔷 **Medium C/C++ Developer**
+- 🤖 **Discord Bot Developer**
+- 🎮 **FiveM Developer**
+
+## 🚀 What I Do
+
+- Building dynamic and responsive websites
+- Developing custom Discord bots with advanced features
+- Creating and optimizing custom scripts for FiveM
+
+## 🌱 Currently Learning
+
+I'm always expanding my knowledge in development, currently diving deeper into JavaScript.
