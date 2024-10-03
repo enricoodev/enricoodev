@@ -6,13 +6,14 @@ Welcome to my GitHub! I'm a passionate developer specializing in web development
 
 ## 🛠 My Skills
 
-- 💻 **Full-Stack Web Developer**
-- 🟢 **Junior JavaScript Developer**
 - 🔵 **Senior Lua Developer**
 - 🌐 **Medium HTML/CSS Developer**
-- 🔷 **Medium C/C++ Developer**
+- 🚀 **Medium C/C++ Developer**
+- ⚙️ **Junior JavaScript Developer**
+- 💾 **Junior sql Developer**
 - 🤖 **Discord Bot Developer**
 - 🎮 **FiveM Developer**
+- 💻 **Full-Stack Web Developer**
 
 ## 🚀 What I Do
 
